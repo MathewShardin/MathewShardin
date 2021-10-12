@@ -1,5 +1,4 @@
 # Greetings <hr>
-##Name:
-Mathew Shardin <br> 
-The Hottest Frog in the game
-Stay positive. Spread the love
+<b>Name:</b> Mathew Shardin <br> 
+The Hottest Frog in the game <br>
+Stay positive. Spread the love <br>
